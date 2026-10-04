@@ -1,0 +1,2 @@
+<div class="top-strip"></div>
+<header><div class="container nav"><a class="brand" href="index.html"><img src="assets/kotec-logo-wide.png" alt="KOTEC for IT Solutions"></a><button class="menu-btn" aria-label="Open menu">☰</button><nav class="nav-links"><a href="index.html">Home</a><a href="about.html">About</a><a href="services.html">Services</a><a href="partners.html">Partners</a><a href="customers.html">Customers</a><a href="contact.html" class="nav-cta">Contact Us</a></nav></div></header>
